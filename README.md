@@ -1,6 +1,6 @@
 # Ledger
 
-Personal budget and expense tracker. Record income and expenses, set monthly category budgets, and see where money goes. Built with PHP 8+, MySQL (PDO), HTML, CSS and vanilla JavaScript. Amounts are in Indian Rupees with lakh/crore grouping (e.g. `₹1,50,000.00`).
+Personal budget and expense tracker. Record income and expenses, set monthly category budgets, and see where money goes. Built with PHP 8+, MySQL (PDO), HTML, CSS and vanilla JavaScript. Amounts are in Indian Rupees with lakh/crore grouping .
 
 ## Features
 
